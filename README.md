@@ -1,2 +1,2 @@
 # first-repo-from-terraform
-My awesome codebase
+My first repo from terraform
